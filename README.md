@@ -1,2 +1,2 @@
 # trippack
-#  https://wandercode.github.io/trippack/
+#  url loading
